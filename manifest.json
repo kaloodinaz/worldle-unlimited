@@ -1,6 +1,18 @@
 {
-  "short_name": "Worldle",
-  "name": "Wordle game in the World",
+  "short_name": "Worldle Unlimited",
+  "name": "Wordle Unlimited Game",
+  "description": "A fun & unlimited version of the classic Wordle game.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "orientation": "portrait",
+  "scope": "/worldle-unlimited/",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "display_override": [
+    "window-controls-overlay",
+    "minimal-ui",
+    "fullscreen"
+  ],
   "icons": [
     {
       "src": "favicon.ico",
